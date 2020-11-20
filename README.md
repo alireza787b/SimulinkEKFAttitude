@@ -7,7 +7,7 @@ Inputs:
 * Accelerometer data should be m/s 
 * Gyroscope data should be  rad/s
 * Magnetometer data should be ut 
-* dt (time step) can be either a fixed step time  or variable
+* dt (time step) can be either a fixed step time  or variable (in secounds)
 
 Outputs:
 * Euler Angles Roll,Pitch,Heading (Yaw) in Radians
