@@ -20,7 +20,6 @@ Outputs:
 Soon I will publish a demonstration Video as well.
 
 
-I used the project "Attitude and Heading Reference System using MATLAB as simple as possible" in github for the algorithm link: https://github.com/raimapo/AHRS
 [![View SimulinkEKFAttitude on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/83113-simulinkekfattitude)
 
 <br />
